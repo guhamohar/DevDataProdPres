@@ -1,4 +1,4 @@
 DevDataProdPres
 ===============
 
-Your Reproducible Pitch Presentation for the shiny app
+A reproducible pitch presentation for the fuel prediction shiny app
